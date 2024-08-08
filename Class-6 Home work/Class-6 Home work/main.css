@@ -1,0 +1,68 @@
+body {
+    font-family: "Poppins", sans-serif;
+    margin: auto;
+}
+
+.hero{
+    background: #FEFFF5;
+    text-align: center;
+    
+
+}
+
+
+.hero h1{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 72px;
+    color: #0A8080;
+}
+
+
+.hero h2{
+   font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    color:#000000;
+
+
+}
+.button {
+    display: inline-block;
+    background: #0A8080;
+    color: white;
+    box-shadow: 0px 4px 4px 0px #00000033;
+    padding: 8px 40px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.blog{
+    text-align: center;
+    
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+
+}
+.post{
+    background: #FEFFF5;
+    max-width: 942px;
+    height: 239px;
+    top: 249px;
+    /* left: -434px; */
+    gap: 0px;
+    border-radius: 10px 0px 0px 0px;
+    opacity: 0px;
+    margin: auto;
+
+}
+
+.post h2{
+    font-family: Poppins;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+
+
+}

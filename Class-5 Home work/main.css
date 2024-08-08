@@ -1,0 +1,41 @@
+h1{
+    font-size: 60px;
+    text-align: center;
+    color: rgb(166, 166, 241);
+   
+    
+}
+
+h2{ 
+    font-size: 40px;
+    margin: auto;
+    color: rgb(166, 166, 241);
+   
+}
+
+div{
+    background-color: rgb(235, 236, 214);
+    width: 650px;
+    height: auto;
+    margin: 80px auto;
+    padding: 40px;
+}
+
+h3{ font-size: 30px;
+    margin: auto;
+    color: rgb(166, 166, 241);
+   
+}
+
+
+.bolt{
+    color: chocolate;
+}
+
+.batton{
+    padding: 10px 20px;
+    font-size: 18px;
+    color: aliceblue;
+    background-color: rgb(166, 166, 241);
+   
+}

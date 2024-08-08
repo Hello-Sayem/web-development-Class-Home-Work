@@ -1,0 +1,45 @@
+body{
+    font-family: "Roboto", sans-serif;
+    
+    margin: auto;
+    text-align: center;
+}
+.hero{
+    background: #326155;
+    
+
+}
+.hero h1{
+    color: #FFFFFF;
+    padding-bottom: 61px;
+
+    
+}
+.hero img{
+    padding-top: 37px;
+
+
+}
+.blog{
+    background: #D7F2EC;
+    max-width: 583px;
+    max-height: 604px;
+    margin: auto;
+    padding: 40px;
+    
+}
+
+.blog a{
+    background: #326155;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 10px 155px;
+
+    
+}
+.foot{
+    margin: auto;
+    background: #326155;
+    color: white;
+    size: 16px;
+}
